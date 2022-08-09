@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://pchen66.github.io/js/three/three.min.js"></script>
+    <script src="js/panolens.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"></script>
+    <title>Virtual House Tour</title>
+</head>
+
+<body>
+    <div id="overlayer"></div>
+    <span class="loader">
+        <span class="loader-inner"></span>
+    </span>
+
+    <div id="container">
+        <audio id="player">
+            <source src='https://rb.gy/r0feye' type='audio/mpeg' />
+        </audio>
+    </div>
+
+
+
+    <div id="icon">
+        <a class="sound" onclick="changeImg()">
+            <img id='audioIcon' src="img/icon/on.png" alt="" srcset="">
+        </a>
+
+    </div>
+
+    <div class="next_menu" onclick="nextMenu()">
+        <div id="full_background"></div>
+        <div id="next_text">Foyer</div>
+        <div class=" fa fa-square-o  background"></div>
+        <div id="next_icon">
+            <img src="img/icon/arrow.png" alt="" srcset="">
+        </div>
+
+    </div>
+
+
+
+    <div class="btn"> <span class="fas fa-bars"></span> </div>
+    <nav class="sidebar">
+        <div class="text"> Home Tour </div>
+        <ul class="main_side">
+            <li class="active "><a href="#" id="front_door">Front Door</a></li>
+            <li><a href="#" id="foyer">Foyer</a></li>
+            <li><a href="#" id="dining_room">Dining Room</a></li>
+            <li><a href="#" id="kitchen">Kitchen</a></li>
+            <li><a href="#" id="breakfast_nook">Breakfat Nook</a></li>
+            <li><a href="#" id="backyard">Backyard </a></li>
+            <li><a href="#" id="master_bedroom">Master Bedroom </a></li>
+            <li><a href="#" id="master_bathroom">Master Bathroom One </a></li>
+            <li><a href="#" id="master_bathroom_two">Master Bathroom Two </a></li>
+            <li><a href="#" id="living_room">Living Room</a></li>
+            <li><a href="#" id="bedroom_one">Bedroom One</a></li>
+            <li><a href="#" id="bathroom_one">Bathroom One</a></li>
+            <li><a href="#" id="bathroom_two">Bathroom Two</a></li>
+            <li><a href="#" id="bedroom_two">Bedroom Two</a></li>
+            <li><a href="#" id="bedroom_three">Bedroom Three</a></li>
+            <li><a href="#" id="laundry_room">Laundry Room </a></li>
+            <li><a href="#" id="garage">Garage </a></li>
+
+
+        </ul>
+    </nav>
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle"
+        aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLongTitle">Room Information</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+
+    <script src="script.js"></script>
+    <script src="SideNavigation.js"></script>
+    <script src="static_assets/data/houseData.js"></script>
+</body>
+
+</html>

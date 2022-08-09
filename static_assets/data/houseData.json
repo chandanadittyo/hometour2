@@ -1,0 +1,191 @@
+{
+  "House:{": {
+    "},": {},
+    "Foyer:{": {
+      "roomName:'Foyer' ,": {},
+      "info:`": {},
+      "adjacentRooms:": {}
+    },
+    "Dining_Room:{": {
+      "roomName:'Dining_Room',": {},
+      "info:`": {},
+      "adjacentRooms:": {}
+    },
+    "Kitchen:{": {
+      "roomName:'Kitchen',": {},
+      "info:`": {},
+      "adjacentRooms:": {}
+    },
+    "Breakfast_Nook:{": {
+      "roomName:'Breakfast_Nook',": {},
+      "info:`": {
+        "*Granite top custom-made cabinet": {}
+      },
+      "`,": {},
+      "adjacentRooms:": {}
+    },
+    "Backyard:{": {
+      "roomName:'Backyard',": {},
+      "info:`": {
+        "*Mature trees:": {
+          "shade:oak, pecan, fresno, acacia, royal poinciana, ficus, ceiba": {}
+        }
+      },
+      "`,": {},
+      "adjacentRooms:": {}
+    },
+    "Master_Bedroom:{": {
+      "roomName:'Master_Bedroom',": {},
+      "info:`": {},
+      "adjacentRooms:": {}
+    },
+    "Master_Bathroom: {": {
+      "roomName:'Master_Bathroom',": {},
+      "info:`": {},
+      "adjacentRooms:": {}
+    },
+    "Master_Bathroom_Two:{": {
+      "roomName:'Master_Bathroom_Two',": {},
+      "info:`": {},
+      "adjacentRooms:": {}
+    },
+    "Living_Room:{": {
+      "roomName:'Living_Room',": {},
+      "info:`": {},
+      "adjacentRooms:": {}
+    },
+    "Bedroom_One:{": {
+      "roomName:'Bedroom_One',": {},
+      "info:`": {},
+      "`,": {},
+      "adjacentRooms:": {}
+    },
+    "Bathroom_One:{": {
+      "roomName:'Bathroom_One',": {},
+      "info:`": {},
+      "adjacentRooms:": {}
+    },
+    "Bathroom_Two:{": {
+      "roomName:'Bathroom_Two',": {},
+      "info:`": {},
+      "adjacentRooms:": {}
+    },
+    "Bedroom_Two:{": {
+      "roomName:'Bedroom_Two',": {},
+      "info:`": {},
+      "`,": {},
+      "adjacentRooms:": {}
+    },
+    "Bedroom_Three:{": {
+      "roomName:'Bedroom_Three',": {},
+      "info:`": {},
+      "adjacentRooms:": {}
+    },
+    "Laundry_Room:{": {
+      "roomName:'Laundry_Room',": {},
+      "info:`": {},
+      "adjacentRooms:": {}
+    },
+    "Garage:{": {
+      "roomName:'Garage',": {},
+      "info:`": {},
+      "adjacentRooms:": {}
+    },
+    "}": {}
+  },
+  "roomName:'House',": {},
+  "info:`": {
+    "*4 bedroom": {},
+    "*3 bath": {},
+    "*Priced at $180,000`,": {}
+  },
+  "adjacentRooms:": {},
+  "*Wrought iron front door.": {},
+  "*Elegant etched glass inserts for privacy.": {},
+  "*Beautiful acrylic chandelier with LED lights.": {},
+  "*Hall closet for guest's coats and purses or for media storage.": {},
+  "*Classic non-skid ceramic tile floor.`,": {},
+  "img:'foyer.jpg',": {},
+  "*Elegant chandelier with LED lights.": {},
+  "*Tiered high ceilings.": {},
+  "*Wrought iron window for added security.": {},
+  "*Direct acces to kitchen for convenience.": {},
+  "*Beautiful tile floor.`,": {},
+  "img:'dining_room.jpg',": {},
+  "*Granite counter tops and backsplash (3/4 inch-thick Brazilian Giallo Fiesta).": {},
+  "*Custom-made island with end drawers and wine bottle storage.": {},
+  "*Samsung stainless steel appliances.": {},
+  "*Birchwood custom cabinets and pantry with elegant crown molding.": {},
+  "*Stainless steel 9\" extra deep double sinks with pullout faucet and soap dispenser.": {},
+  "*Under cabinet and top of cabinet LED lights.`,": {},
+  "img:'kitchen.jpg',": {},
+  "*Custom wine rack display and storage.": {},
+  "*Modern chandelier with LED lights.": {},
+  "*Easy access to backyard when entertaining.": {},
+  "*Open and spacious.": {},
+  "img:'breakfast_nook.jpg',": {},
+  "*Extra large back yard for playground or future pool.": {},
+  "*Sprinkler system.": {},
+  "*Beautiful fencing.": {},
+  "fruit:papaya, mango, limes.": {},
+  "*Entertaining and eating area for backyard barbeques.": {},
+  "img:'backyard.jpg',": {},
+  "*Extra large bedroom, allows for sitting area.": {},
+  "*Tiered cieling or architecture.": {},
+  "*Quiet ceiling fan and light fixture.": {},
+  "*Plush neutral taupe carpet.": {},
+  "*Sliding door for easy access to backyard.`,": {},
+  "img:'master_bedroom.jpg',": {},
+  "*Custom glass shower enclosure.": {},
+  "*Porcelain bath tiles and travertine molding.": {},
+  "*Privacy glass block window.": {},
+  "*Relaxing garden tub with jets.": {},
+  "*Seperate toilet room for privacy with storage.": {},
+  "*Double extractor lighted vents.`,": {},
+  "img:'master_bathroom.jpg',": {},
+  "img:'master_bathroom_two.jpg',": {},
+  "*Informal sunken family room.": {},
+  "*Chimney with mantle.": {},
+  "*Remote controlled ceiling fans.": {},
+  "*Tiered ceiling.": {},
+  "*T.V. wall mount/media closet.`,": {},
+  "img:'living_room.jpg',": {},
+  "*Spacious bright and airy room.": {},
+  "*Perect for guests or mother-in-law.": {},
+  "*Private bathroom.": {},
+  "*Built-in bookshelf with elegant crown molding.": {},
+  "*Large space and wood flooring.": {},
+  "*Decorative wainscott and chair rail modlings.": {},
+  "img:'bedroom_one.jpg',": {},
+  "*Granite vanity and custom beveled edge mirror.": {},
+  "*Vanity-Kohler sink and bath fixtures.": {},
+  "*Elongated Kohler water saver toilet.": {},
+  "*Kohler glass shower enclosure.": {},
+  "*Custom ceramic tile and decorative metallic borders.": {},
+  "*Large custom storage closet.`,": {},
+  "img:'bathroom_one.jpg',": {},
+  "*Marble vanity top with custom beveled-edge mirror.": {},
+  "*Elegant Kohler sink and bath fixtures.": {},
+  "*Elongated Kohler water-saver toilet.": {},
+  "*Custom large storage closet with extra deep shelves.": {},
+  "*Beautiful ceramic tile shower surround.": {},
+  "*Kohler glass shower enclosure.`,": {},
+  "img:'bathroom_two.jpg',": {},
+  "*Large spacious room for 2-twin or 1-queen bedroom.": {},
+  "*Neutral taupe plush carpet.": {},
+  "*Two closets.": {},
+  "*Custom shelving and cabinet.": {},
+  "img:'bedroom_two.jpg',": {},
+  "*Large spacious room enough for 2 twin or 1 queen size bed.": {},
+  "*Lighted ceiling fan fixture.": {},
+  "*Plush neutral taupe carpet.`,": {},
+  "img:'bedroom_three.jpg',": {},
+  "*Inside laundry room (washer and dryer negotiable).": {},
+  "*Extra overhead storage cabinets.": {},
+  "*Large storage closet.": {},
+  "*Linen closet with extra deep shelves.`,": {},
+  "img:'laundry_room.jpg',": {},
+  "*Garage room windows for daylight convenience.": {},
+  "*Double car garage with anti-slip surface floor.`,": {},
+  "img:'garage.jpg',": {}
+}
